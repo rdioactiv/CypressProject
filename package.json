@@ -1,0 +1,22 @@
+{
+  "name": "finalcypresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run"
+  },
+
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@cypress/browserify-preprocessor": "latest",
+    "testFiles": "**/*.feature"
+
+  }
+}

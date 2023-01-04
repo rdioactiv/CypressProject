@@ -1,0 +1,10 @@
+{
+  "firstname": "First",
+  "lastname": "Name",
+  "email": "firstname@firstname.com",
+  "gender": "male",
+  "password":"Firstname@09",
+  "username": "firstname",
+  "bookName": ["Learning JavaScript Design Patterns", "Programming JavaScript Applications", "Eloquent JavaScript, Second Edition"]
+
+}
