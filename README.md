@@ -1,4 +1,4 @@
-# Cypress Automation
+![Cypress_Automation](https://user-images.githubusercontent.com/22221943/218168106-bf811dbe-13c1-4b9d-aebe-56ad46fb4787.png)
 
 ## Table of Contents
 
